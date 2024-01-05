@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControlDeGastos", "..\ControlDeGastos\ControlDeGastos.csproj", "{F8C27298-D78F-4B33-8A63-57F5635F77FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUD JCE", "..\JCE\CRUD JCE.csproj", "{E53B8CAA-6392-4975-B4F9-08336FA6C96D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8C27298-D78F-4B33-8A63-57F5635F77FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C27298-D78F-4B33-8A63-57F5635F77FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C27298-D78F-4B33-8A63-57F5635F77FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C27298-D78F-4B33-8A63-57F5635F77FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E53B8CAA-6392-4975-B4F9-08336FA6C96D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53B8CAA-6392-4975-B4F9-08336FA6C96D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53B8CAA-6392-4975-B4F9-08336FA6C96D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E53B8CAA-6392-4975-B4F9-08336FA6C96D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {943F1996-2835-4BCB-9E7D-44CD92B13C47}
+	EndGlobalSection
+EndGlobal
